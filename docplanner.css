@@ -61,15 +61,15 @@ body, html {
   display: inline-block;
   width: 100px;
   height: 100px;
-  color: #00bfa5;
+  color: #03c5ab;
 }
 
 .career-link:hover {
-  color: #00bfa5;
+  color: #03c5ab;
 }
 
 .departments:hover {
-  color: #00bfa5;
+  color: #03c5ab;
 }
 
 .navigation-menu {
@@ -109,11 +109,11 @@ body, html {
 
 .row-menu:hover {
   background-color: #b5b3b338;
-  color: #00bfa5;
+  color: #03c5ab;
 }
 
 .row-menu:hover a {
-  color: #00bfa5;
+  color: #03c5ab;
 }
 
 body {
@@ -141,7 +141,7 @@ body {
 
 .leading-section h1 {
   font-size: 22px;
-  color: #00bfa5;
+  color: #03c5ab;
 }
 
 .lead-section-text-1, .lead-section-text-2 {
@@ -263,7 +263,7 @@ body {
   font-size: 30px;
   max-width: 320px;
   margin: 0;
-  color: #00ccb1;
+  color: #03c5ab;
 }
 
 .logo-gris {
@@ -272,7 +272,7 @@ body {
 }
 
 .partners-sites a:hover {
-  color: #00ccb1;
+  color: #03c5ab;
 }
 
 .flag {
@@ -336,7 +336,7 @@ body {
 
 .statistics-section h1 {
   font-size: 26px;
-  color: #00ccb1;
+  color: #03c5ab;
 }
 
 .statistics-punchline p {
@@ -352,7 +352,7 @@ body {
 
 .stats h3 {
   font-size: 17px;
-  color: #00ccb1;
+  color: #03c5ab;
   text-align: center;
 }
 
