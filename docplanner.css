@@ -383,6 +383,7 @@ body {
 .offices-message p {
   font-size: 14px;
   color: #8a8a8a;
+  line-height: 2;
 }
 
 .offices-location-slider {
